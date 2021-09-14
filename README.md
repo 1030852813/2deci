@@ -1,6 +1,6 @@
 # 2deci
 
-Conver any-bit number to decimal number and vise versa.
+Convert any-bit number to decimal number and vise versa.
 
 --bit n to set bit to n
 
