@@ -6,7 +6,7 @@ Convert any-bit number to decimal number and vise versa.
 
 --exp xxx to set expression to xxx
 
---r to run reversly (from decimal to any-bit number)
+--r to run reversely (from decimal number to any-bit number)
 
 Example: 
 
